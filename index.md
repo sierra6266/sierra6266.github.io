@@ -35,7 +35,8 @@ R Bootcamp
 <br>Ted Roger’s School of Business Management, Toronto, Ontario
 <br>July 2020
 
-R, Tableau, and SAS self-study
+<br>R, Tableau, and SAS self-study
+<br> https://public.tableau.com/profile/sierra3163#!/?newProfile=&activeTab=0
 
 ### Certifications
 
