@@ -5,57 +5,52 @@ Queen’s University Health Sciences undergraduate student with 4.3 GPA. Lactati
 ### Education
 
 Hons. BHSc Health Sciences
-Queen’s University, Kingston, Ontario
-January 2019 – Present
-4.3 GPA, Dean’s List with Distinction
+<br> Queen’s University, Kingston, Ontario
+<br>January 2019 – Present
+<br>4.3 GPA, Dean’s List with Distinction
 
-Lactation Medicine Program
-International Breastfeeding Centre, Toronto, Ontario
-September 2015 – May 2017
+<br>Lactation Medicine Program
+<br>International Breastfeeding Centre, Toronto, Ontario
+<br>September 2015 – May 2017
 
-Interest Courses
-Ryerson University, Toronto, Ontario
-2012 – 2020
+<br>Interest Courses
+<br>Ryerson University, Toronto, Ontario
+<br>2012 – 2020
 
 ### Business
 Full Bellies Breastfeeding Support
-
-http://fullbellies.ca
+<br>http://fullbellies.ca
 
 ### Self Study
 
 Statistical Analysis with R for Public Health Specialization
-Imperial College London via Coursera, Online
-September 2020
+<br>Imperial College London via Coursera, Online
+<br>September 2020
 
 Getting Started with SAS Programming
-SAS vis Coursera, Online
-September 2020
+<br>SAS vis Coursera, Online
+<br>September 2020
 
 R Bootcamp
-Ted Roger’s School of Business Management, Toronto, Ontario
-July 2020
+<br>Ted Roger’s School of Business Management, Toronto, Ontario
+<br>July 2020
 
 R, Tableau, and SAS self-study
 
 ### Certifications
 
 IBCLC Lactation Consultant Certification
-IBLCE, Toronto, Ontario
-January 2018
+<br>IBLCE, Toronto, Ontario
+<br>January 2018
 
 20-Hour Lactation Management Course
-INFACT/IBFAN, Toronto, Ontario 
-September 2013
+<br>INFACT/IBFAN, Toronto, Ontario 
+<br>September 2013
 
 ### Research Interests
 
 Urban health, health equity and social determinants. 
-
-Adverse childhood experiences. 
-
-Maternal-newborn health. 
-
-Infant feeding practices and lactation. 
-
-Immunology and infectious disease. 
+<br>Adverse childhood experiences. 
+<br>Maternal-newborn health. 
+<br>Infant feeding practices and lactation. 
+<br>Immunology and infectious disease. 
