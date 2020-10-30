@@ -20,6 +20,9 @@ Interest Courses
 ### Business
 <a href="http://fullbellies.ca">Full Bellies Breastfeeding Support</a>
 
+### Contact
+<a href="mailto:18spk2@queensu.ca">Email me</a>
+
 ### Self Study
 
 Statistical Analysis with R for Public Health Specialization
