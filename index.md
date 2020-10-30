@@ -19,7 +19,7 @@ Interest Courses
 
 ### Business
 Full Bellies Breastfeeding Support
-<br>http://fullbellies.ca
+<br><a href="http://fullbellies.ca">Website</a>
 
 ### Self Study
 
@@ -36,7 +36,7 @@ R Bootcamp
 <br>July 2020
 
 R, Tableau, and SAS self-study
-<br> https://public.tableau.com/profile/sierra3163#!/?newProfile=&activeTab=0
+<br><a href="https://public.tableau.com/profile/sierra3163#!/?newProfile=&activeTab=0">Tableau Public</a>
 
 ### Certifications
 
