@@ -9,11 +9,11 @@ Hons. BHSc Health Sciences
 <br>January 2019 – Present
 <br>4.3 GPA, Dean’s List with Distinction
 
-<br>Lactation Medicine Program
+Lactation Medicine Program
 <br>International Breastfeeding Centre, Toronto, Ontario
 <br>September 2015 – May 2017
 
-<br>Interest Courses
+Interest Courses
 <br>Ryerson University, Toronto, Ontario
 <br>2012 – 2020
 
@@ -35,7 +35,7 @@ R Bootcamp
 <br>Ted Roger’s School of Business Management, Toronto, Ontario
 <br>July 2020
 
-<br>R, Tableau, and SAS self-study
+R, Tableau, and SAS self-study
 <br> https://public.tableau.com/profile/sierra3163#!/?newProfile=&activeTab=0
 
 ### Certifications
