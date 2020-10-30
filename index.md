@@ -18,8 +18,7 @@ Interest Courses
 <br>2012 – 2020
 
 ### Business
-Full Bellies Breastfeeding Support
-<br><a href="http://fullbellies.ca">Website</a>
+<a href="http://fullbellies.ca">Full Bellies Breastfeeding Support</a>
 
 ### Self Study
 
