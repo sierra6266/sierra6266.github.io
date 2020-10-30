@@ -19,6 +19,7 @@ Ryerson University, Toronto, Ontario
 
 ### Business
 Full Bellies Breastfeeding Support
+
 http://fullbellies.ca
 
 ### Self Study
@@ -50,7 +51,11 @@ September 2013
 ### Research Interests
 
 Urban health, health equity and social determinants. 
+
 Adverse childhood experiences. 
+
 Maternal-newborn health. 
+
 Infant feeding practices and lactation. 
+
 Immunology and infectious disease. 
