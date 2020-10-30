@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Sierra Killam
 
-You can use the [editor on GitHub](https://github.com/sierra6266/sierra6266.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Queen’s University Health Sciences undergraduate student with 4.3 GPA. Lactation consultant (IBCLC) in private practice. Strengths in communication, analysis, team management, and conflict resolution. Goal-oriented and looking to expand skills in health research and data analysis for a future in applied epidemiology. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+Hons. BHSc Health Sciences
+Queen’s University, Kingston, Ontario
+January 2019 – Present
+4.3 GPA, Dean’s List with Distinction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lactation Medicine Program
+International Breastfeeding Centre, Toronto, Ontario
+September 2015 – May 2017
 
-```markdown
-Syntax highlighted code block
+Interest Courses
+Ryerson University, Toronto, Ontario
+2012 – 2020
 
-# Header 1
-## Header 2
-### Header 3
+### Business
+Full Bellies Breastfeeding Support
+http://fullbellies.ca
 
-- Bulleted
-- List
+### Self Study
 
-1. Numbered
-2. List
+Statistical Analysis with R for Public Health Specialization
+Imperial College London via Coursera, Online
+September 2020
 
-**Bold** and _Italic_ and `Code` text
+Getting Started with SAS Programming
+SAS vis Coursera, Online
+September 2020
 
-[Link](url) and ![Image](src)
-```
+R Bootcamp
+Ted Roger’s School of Business Management, Toronto, Ontario
+July 2020
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+R, Tableau, and SAS self-study
 
-### Jekyll Themes
+### Certifications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierra6266/sierra6266.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+IBCLC Lactation Consultant Certification
+IBLCE, Toronto, Ontario
+January 2018
 
-### Support or Contact
+20-Hour Lactation Management Course
+INFACT/IBFAN, Toronto, Ontario 
+September 2013
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Research Interests
+
+Urban health, health equity and social determinants. 
+Adverse childhood experiences. 
+Maternal-newborn health. 
+Infant feeding practices and lactation. 
+Immunology and infectious disease. 
