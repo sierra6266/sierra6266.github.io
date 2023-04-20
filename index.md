@@ -1,12 +1,18 @@
 ## Sierra Killam
 
-Queen’s University Health Sciences undergraduate student with 4.3 GPA. Lactation consultant (IBCLC) in private practice. Strengths in communication, analysis, team management, and conflict resolution. Goal-oriented and looking to expand skills in health research and data analysis for a future in applied epidemiology. 
+University of Ottawa MSc Epidemiology student researching the long-term effects of vaccination during pregnancy. Former private practice lactation consultant (IBCLC). Strengths in communication, analysis, team management, and conflict resolution. Goal-oriented and looking to expand skills in health research and data analysis for a future in applied epidemiology. 
 
 ### Education
 
+MSc Epidemiology
+<br>University of Ottawa, Ottawa, Ontario
+<br>September 2022 – Present
+<br>2023 CIHR Canada Graduate Scholarship - Master's program
+<br>2022 Faculty of Medicine Excellence Scholarship
+
 Hons. BHSc Health Sciences
-<br> Queen’s University, Kingston, Ontario
-<br>January 2019 – Present
+<br>Queen’s University, Kingston, Ontario
+<br>January 2019 – June 2022
 <br>4.3 GPA, Dean’s List with Distinction
 
 Lactation Medicine Program
@@ -17,11 +23,8 @@ Interest Courses
 <br>Ryerson University, Toronto, Ontario
 <br>2012 – 2020
 
-### Business
-<a href="http://fullbellies.ca">Full Bellies Breastfeeding Support</a>
-
 ### Contact
-<a href="mailto:18spk2@queensu.ca">Email me</a>
+<a href="mailto:sierra.killam@uottawa.ca">Email me</a>
 
 ### Self Study
 
