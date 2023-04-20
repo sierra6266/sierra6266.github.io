@@ -55,8 +55,9 @@ IBCLC Lactation Consultant Certification
 
 ### Research Interests
 
-Urban health, health equity and social determinants. 
-<br>- Adverse childhood experiences. 
+- Urban health, health equity and social determinants. 
 <br>- Maternal-newborn health. 
+<br>- Vaccination.
 <br>- Infant feeding practices and lactation. 
+<br>- Adverse childhood experiences. 
 <br>- Immunology and infectious disease. 
